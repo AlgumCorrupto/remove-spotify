@@ -4,7 +4,7 @@
     "manifest_version": 2,
     "name": "remove-premium-spotify",
     "version": "1.0",
-    "homepage_url": "",
+    "homepage_url": "https://github.com/AlgumCorrupto/remove-spotify",
   
     "content_scripts": [
         {
